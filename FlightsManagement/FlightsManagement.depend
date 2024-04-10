@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1712790409 source:c:\users\user\onedrive\bureau\new folder\gestionvol\flightsmanagement\main.cpp
+	<iostream>
+	<vector>
+	"Passager.h"
+	"Avion.h"
+	"Vol.h"
+	"managementSystem.h"
+
+1712791465 c:\users\user\onedrive\bureau\new folder\gestionvol\flightsmanagement\passager.h
+	<iostream>
+
+1712789395 c:\users\user\onedrive\bureau\new folder\gestionvol\flightsmanagement\avion.h
+	<string>
+	<iostream>
+	"Date.h"
+
+1712789432 c:\users\user\onedrive\bureau\new folder\gestionvol\flightsmanagement\date.h
+	<stdexcept>
+
+1712789172 c:\users\user\onedrive\bureau\new folder\gestionvol\flightsmanagement\vol.h
+	"Avion.h"
+	"Passager.h"
+	"Date.h"
+	<vector>
+	<string>
+	<iostream>
+
+1712789548 c:\users\user\onedrive\bureau\new folder\gestionvol\flightsmanagement\managementsystem.h
+	<vector>
+	<iostream>
+	"Passager.h"
+	"Avion.h"
+	"Vol.h"
+
+1712790705 source:c:\users\user\onedrive\bureau\new folder\gestionvol\flightsmanagement\date.cpp
+
+1712790904 source:c:\users\user\onedrive\bureau\new folder\gestionvol\flightsmanagement\avion.cpp
+	"Avion.h"
+	"Avion.h"
+
+1712791319 source:c:\users\user\onedrive\bureau\new folder\gestionvol\flightsmanagement\passager.cpp
+	"Passager.h"
+
+1712791892 source:c:\users\user\onedrive\bureau\new folder\gestionvol\flightsmanagement\managementsystem.cpp
+	"managementSystem.h"
+	<iostream>
+
